@@ -1,6 +1,6 @@
-#My java homework:
+# My java homework:
 
-#Exercise 1
+# Exercise 1
 ![Exercise 1 image](docs/ex2.jpg)
 
 1. Create Java class based on the diagram above. 
@@ -12,7 +12,7 @@
     * Use _SensorsCluster.getSensorById_ to obtain a reference for a previously added sensor and display sorted readings by the 2 provided criterias
 3. Create minimal unit tests for testing the behavior of the program.
 
-#Exercise 2
+# Exercise 2
 
 ![Exercise 1 image](docs/ex1.jpg)
 
