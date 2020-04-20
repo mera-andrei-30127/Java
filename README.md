@@ -1,5 +1,4 @@
-# Projects
-My java homework:
+#My java homework:
 
 #Exercise 1
 ![Exercise 1 image](docs/ex2.jpg)
