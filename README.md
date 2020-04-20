@@ -13,6 +13,7 @@
 3. Create minimal unit tests for testing the behavior of the program.
 
 #Exercise 2
+
 ![Exercise 1 image](docs/ex1.jpg)
 
 1. Create Java class based on the diagram above. 
