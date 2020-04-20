@@ -1,6 +1,6 @@
 # Projects
 
-1. In the folder Sql I have the project code.It creates some tables, it populate them and it applies 
+1. In the folder SQL I have the project code.It creates some tables, it populate them and it applies 
 different functions/procedures/trigger to tables. Code describe an school structure 
 through our eyes.
 
@@ -30,4 +30,4 @@ when the sensor measure is low(10 cm) the led light is slightly interrupted.The 
     * _insertCard()_ method from ATM will compare received pin with the pin stored in card. If 2 pins match the card will be stored as attribute and will be used for executing transactions.
     * _removeCard()_ method will _invalidate_ a previously inserted card by making the attribute null. 
 2. Demonstrate the functionality of application in Exercise1 class main method.
-3. Create minimal unit tests for testing the behavior of the programm.
+3. Create minimal unit tests for testing the behavior of the program.
